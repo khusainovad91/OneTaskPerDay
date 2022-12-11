@@ -1,0 +1,11 @@
+.allure
+
+#idea files
+.idea
+*.iml
+
+#maven files
+target
+
+#testdata
+.msg
